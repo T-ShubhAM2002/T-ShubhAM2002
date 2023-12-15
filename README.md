@@ -1,6 +1,6 @@
 - 👋 Hi, I’m T Shubham
-- 👀 I’m interested in Web developemnt, Competitve Coding and 
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Web developemnt, Competitve Coding and Gaming
+- 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -1,6 +1,7 @@
 # 💫 About Me:
 My name is T shubham<br>I am currently a 3rd year undergrad student in IIIT bhubaneswar, Odisha, India<br>I am a Front End developer
 
+[![](https://visitcount.itsvg.in/api?id=T-Shubham-2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/t-shubham-062007235/) 
@@ -19,6 +20,3 @@ My name is T shubham<br>I am currently a 3rd year undergrad student in IIIT bhub
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=T-Shubham-2003&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

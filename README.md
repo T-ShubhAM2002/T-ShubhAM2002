@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is T shubham<br>I am currently a 3rd year undergrad student in IIIT bhubaneswar, Odisha, India<br>I am a Front End developer
+My name is T shubham<br>I am currently a 3rd year undergrad student<br>I am a Front End developer
 
 [![](https://visitcount.itsvg.in/api?id=T-Shubham-2003&icon=0&color=0)](https://visitcount.itsvg.in)
 

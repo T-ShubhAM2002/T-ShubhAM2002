@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shubham.shubh2002@gmail.com**
 
-- ⚡ Fun fact **I Am the best Fortnite player in my group**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -9,7 +9,7 @@
 -->
 <h1 align="center">Hi, I'm Shubham 👋</h1>
 <h3 align="center">CS Master's Student @ BITS Pilani, Goa &nbsp;|&nbsp; Aspiring ML / SDE-ML Engineer</h3>
-🚀 About Me
+🚀 About Me<br>
 🎓 M.E. Computer Science student at BITS Pilani, Goa Campus </br>
 🧑‍🏫 Graduate Teaching Assistant for Machine Learning and Data Structures & Algorithms</br>
 🔭 Rebuilding core NLP components from scratch — tokenizers, TF-IDF, embeddings — before moving up the stack to Transformers, RAG, and agentic systems</br>

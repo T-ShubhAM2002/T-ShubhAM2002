@@ -1,12 +1,3 @@
-<!--
-  SETUP CHECKLIST before you push this:
-  1. This has to live in a repo named exactly your-github-username/your-github-username
-     (all lowercase, public, "Add a README" checked) — that's the only way GitHub renders
-     a profile README on your homepage.
-  2. Find-and-replace YOUR-USERNAME with your actual GitHub username (stats cards, links, visitor counter).
-  3. Replace YOUR-LINKEDIN with your LinkedIn handle.
-  4. Swap the project repo links once you've actually pushed those repos.
--->
 <h1 align="center">Hi, I'm Shubham 👋</h1>
 <h3 align="center">CS Master's Student @ BITS Pilani, Goa &nbsp;|&nbsp; Aspiring ML / SDE-ML Engineer</h3>
 🚀 About Me<br>
@@ -20,7 +11,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20ML%20Roles-2EA3F7?style=for-the-badge" alt="Open to opportunities"/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=2EA3F7" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=T-ShubhAM2002&style=for-the-badge&color=2EA3F7" alt="Profile Views"/>
 </p>
 
 # 💻 Tech Stack
@@ -74,6 +65,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=T-ShubhAM2002&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=T-ShubhAM2002&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
